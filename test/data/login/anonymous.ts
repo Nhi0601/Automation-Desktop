@@ -7,3 +7,5 @@ export const INVALID_LOGIN_ANONYMOUS = {
     phoneNumber: '0123',
     specialCharacter: '~!@#$%^&*()_+',
 };
+
+export const OTP_FALSE = '123456';

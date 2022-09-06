@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ab72c107-4d07-4b96-90f9-6f3ca8bbd509" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test /data/login /anonymous.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test /pageobjects /login /anonymous.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test /pageobjects /page.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test /specs/login /anonymous.e2e.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wdio.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/elements /modal /modal.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/pageobjects/login/anonymous.ts" beforeDir="false" afterPath="$PROJECT_DIR$/test/pageobjects/login/anonymous.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/specs/login/anonymous.e2e.ts" beforeDir="false" afterPath="$PROJECT_DIR$/test/specs/login/anonymous.e2e.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +40,10 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/admin/Documents/GitHub/Automation-Desktop&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs.mocha.mocha_node_package_dir&quot;: &quot;&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/admin/Documents/GitHub/Automation-Desktop/node_modules/prettier&quot;,
@@ -106,6 +108,14 @@
       <workItem from="1660718060202" duration="8467000" />
       <workItem from="1660802821855" duration="1511000" />
       <workItem from="1661156449152" duration="421000" />
+      <workItem from="1661163820942" duration="139000" />
+      <workItem from="1661242085219" duration="4392000" />
+      <workItem from="1661421712431" duration="413000" />
+      <workItem from="1661764047263" duration="587000" />
+      <workItem from="1661766134822" duration="3054000" />
+      <workItem from="1661850411639" duration="239000" />
+      <workItem from="1661853051949" duration="375000" />
+      <workItem from="1662445980945" duration="7473000" />
     </task>
     <servers />
   </component>
